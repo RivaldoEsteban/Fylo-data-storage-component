@@ -1,0 +1,20 @@
+body {
+  background: hsl(229, 57%, 11%);
+  font-size: 14px;
+  color: hsl(243, 100%, 93%);
+  background-image: url(../images/bg-desktop.svg);
+  background-repeat: no-repeat;
+}
+.wrapper {
+  max-width: 800px;
+  margin: auto;
+}
+.contenido {
+  display: flex;
+}
+.documentos {
+  display: flex;
+}
+.doc {
+  margin: auto 10px;
+}
